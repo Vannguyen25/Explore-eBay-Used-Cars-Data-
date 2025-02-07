@@ -1,0 +1,11 @@
+Sau khi học xong về Visualization, hãy quay lại và chỉnh sửa file này
+1. Thực hiện quy củ lại Data Cleaning và Analyst, tôi cần làm những việc sau
+    +) Giải thích các vấn đề liên quan đế cleaning, tại sao chọn con số này, chi tiết nào đáng ngờ, giá trị nào cần thay đổi
+    +) Với Analyst, cần trả lười các câu hỏi sau: 
+        *) Các thông tin cơ bản như: Các hãng xe nào chiếm thị phần xe cũ lớn nhất, hãng xe nào có giá trị trung bình lớn nhất
+        *) Chúng ta mong đợi rằng xe càng đi lâu ngày thì giá trị càng giảm, có thật như vậy không ( muốn vậy, hãy chia nhỏ khoảng odo và xem xét tương quan) 
+        * ) Nếu không, còn chi tiết nào bị ẩn dấu ( tỷ lệ sửa chữa theo số km )
+    + ) Kết luận : Đâu là hãng xe đắt - trung bình - rẻ
+                   Đâu mới là vấn đề ảnh hưởng đến giá xe
+                 
+                               
